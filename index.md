@@ -7,7 +7,7 @@ title: COIN
 
 ## Objectives
 
-After more than ten years of continuous activity, the COIN series of workshops came to a stop in 2017 with its last edition being held together with AAMAS 2017 in São Paulo. In order to close this chapter of research within our community, we are organising a special edition of LNAI commemorating the 10 years of the COIN workshop with research highlights and directions in which research on Coordination, Organization, Institutions and Norms in Agent Systems. 
+After more than ten years of continuous activity, the COIN series of workshops came to a stop in [2017](https://coin-workshop.github.io/coin-2017-brazil/) with its last edition being held together with AAMAS 2017 in São Paulo. In order to close this chapter of research within our community, we are organising a special edition of LNAI commemorating the 10 years of the COIN workshop with research highlights and directions in which research on Coordination, Organization, Institutions and Norms in Agent Systems. 
 Coordination, organizations, institutions and norms are four key governance elements, and the COIN workshops constitute a space for debate and exploration of these four elements for the design and use of open systems. 
 
 Current ICT solutions exhibit unprecedented levels of sophistication, only achievable via the interconnection of hundreds or thousands of software components. In many scenarios, these components are supplied by third parties and they may come and go (i.e., we have an open ecosystem of components), they may have various degrees of autonomy (i.e., they may not “do as told”), and they interact with one another as well as with digital and physical assets, whilst competing and/or collaborating to achieve individual and global goals. 
